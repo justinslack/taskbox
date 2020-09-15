@@ -1,0 +1,20 @@
+{
+    "plugins": [
+        {
+            "name": "@zeplin/cli-connect-react-plugin"
+        }
+    ],
+    "projects": [
+        "5df0a4c613cbd2a7660422b6"
+    ],
+    "styleguides": [],
+    "components": [
+        {
+            "path": "src/stories/Button.js",
+            "zeplinNames": [
+                "Buttons/Button/Large/Text + Icon Right",
+                "Buttons/Button/Large/Text"
+            ]
+        }
+    ]
+}
